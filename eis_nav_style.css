@@ -1,0 +1,71 @@
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                Top Header Menu Start From Here
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+.top_header_menu {
+    height: 33px;    
+    border-top: 1px solid #2e4155;
+    border-left: 1px solid #2e4155;
+    border-right: 1px solid #2e4155;
+    border-bottom: 2px solid #2e4155;
+    line-height: 30px;
+    padding-bottom: 1px;
+    float: left;
+    font-size: 20px;
+    width: 100%;
+    margin: 20px 0 40px 0;
+}
+
+.top_header_menu ul>li {
+    float: left !important;
+    border-right: 1px solid #464646 !important;
+}
+
+.top_header_menu ul>li:last-child {
+    border: none !important;
+}
+
+.top_header_menu ul>li>a {
+    color: #000 !important;
+    font-size: 16px !important;
+    float: left !important;
+    height: 30px !important;
+    line-height: 31px !important;
+    padding: 0 10px !important;
+    transition: all 0.4s linear !important;
+    -webkit-transition: all 0.4s linear !important;
+}
+
+/* .dp_home_icon {
+    font-size: 15px !important;
+} */
+/* 
+.dp_caret_icon {
+    font-size: 24px !important;
+} */
+
+.top_header_menu ul>li>a:hover,
+.top_header_menu ul li a:active {
+    border-top: 3px solid #e74c4f !important;
+    background: #19232d !important;
+    color: #fff !important;
+}
+
+/*mega menu*/
+.wpmm-strees-row-container {
+    margin-top: 32px;
+}
+
+.wp-megamenu-sub-menu {
+    border-bottom: 3px solid #e74c4f;
+}
+
+.others ul>li {
+    border: none !important;
+    width: 100%;
+}
+
+.others ul>li>a:hover {
+    color: #e74c4f !important;
+    border: none !important;
+    background-color: #fff !important;
+}

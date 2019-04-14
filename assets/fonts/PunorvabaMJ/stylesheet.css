@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'punorvabamjregular';
+    src: url('punorvabamj-webfont.woff2') format('woff2'),
+        url('punorvabamj-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'punorvabamjbold';
+    src: url('punorvabamj-bold-webfont.woff2') format('woff2'),
+        url('punorvabamj-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'punorvabamjbold_italic';
+    src: url('punorvabamj-bolditalic-webfont.woff2') format('woff2'),
+        url('punorvabamj-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'punorvabamjitalic';
+    src: url('punorvabamj-italic-webfont.woff2') format('woff2'),
+        url('punorvabamj-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
